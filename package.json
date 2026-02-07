@@ -47,4 +47,8 @@
     "url": "https://github.com/oov/PSDTool/issues"
   },
   "homepage": "https://github.com/oov/PSDTool#readme"
+  "engines": {
+  "node": "18.x",
+  "yarn": "1.x"
+}
 }
