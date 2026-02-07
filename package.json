@@ -1,6 +1,9 @@
 {
   "name": "psdtool",
   "version": "1.0.0",
+  "resolutions": {
+    "minimatch": "^9.0.5"
+  },
   "description": "",
   "main": "index.js",
   "dependencies": {
